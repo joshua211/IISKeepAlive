@@ -1,0 +1,8 @@
+<configuration>
+  <id>IISKeepAlive</id>
+  <name>IISKeepAlive</name>
+  <description>IISKeepAlive</description>
+  <executable>%BASE%\IISKeepAlive.exe</executable>
+  <arguments></arguments>
+  <startmode>Automatic</startmode>
+</configuration>
